@@ -1,4 +1,4 @@
-# Economic Slack: Course Portal
+# Economic Slack - Course Portal
 
 This repository is the portal for the course "Economic Slack" taught by [Pascal Michaillat](https://pascalmichaillat.org/) at [UC Santa Cruz](https://www.ucsc.edu). The course ID is ECON 221. The portal contains the syllabus, provides a discussion forum, and hosts other course resources.
 
@@ -15,7 +15,7 @@ The course materials are available at https://pascalmichaillat.org/w/.
 + [Discussion forum](https://github.com/pmichaillat/economic-slack/discussions) - This collaborative discussion forum is designed to get you help quickly and efficiently. You can ask and answer questions, share updates, have open-ended conversations, and follow along on decisions affecting the course.
 + [Lecture and research resources](https://github.com/pmichaillat/economic-slack/tree/main/resources) - The folder contains additional course resources, including results on convexity.
 + [Reading material](https://github.com/pmichaillat/economic-slack/tree/main/readings) - This folder contains book chapters and articles that may be hard to find online.
-+ [Presentation examples](https://github.com/pmichaillat/economic-slack/tree/main/presentations) - This folder contains examples of presentations.
++ [Presentation examples](https://github.com/pmichaillat/economic-slack/tree/main/examples) - This folder contains a few examples of presentations from previous years.
 
 ## License
 
