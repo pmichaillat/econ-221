@@ -1,6 +1,6 @@
-# Economic Slack - Course Portal
+# ECON 221 - Economic Slack - Course Portal
 
-This repository is the portal for the course "Economic Slack" taught by [Pascal Michaillat](https://pascalmichaillat.org/) at [UC Santa Cruz](https://www.ucsc.edu). The course ID is ECON 221. The portal contains the syllabus, provides a discussion forum, and hosts other course resources.
+This repository is the portal for the course ECON 221 - Economic Slack taught by [Pascal Michaillat](https://pascalmichaillat.org/) at [UC Santa Cruz](https://www.ucsc.edu). The portal contains the syllabus, provides a discussion forum, and hosts other course resources.
 
 ## Course webpage
 
